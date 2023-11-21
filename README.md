@@ -123,5 +123,10 @@ gimli = Nain("Gimli", "Nain", ["Fort", "Résistant", "Habile avec une hache"])
 ### Gandalf le Gris - Istari
 
 ```python
+class Istari:
+ def__ini__(self,nom,pouvoir):
+  self.nom = nom
+  self.pouvoir=pouvoir
 
+  gandalf=Istari("Gandal le Gris","Magie puissante")
 ```
